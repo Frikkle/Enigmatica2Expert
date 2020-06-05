@@ -1389,7 +1389,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Clay Bucket",
-          "desc:8": "Since you don\u0027t have access to Iron at the current harvest level, you\u0027ll have to make a §4Clay Bucket§0 in order to move lava around.\n\nHowever, we do have the feeling these buckets are not as durable as their Iron counterparts..."
+          "desc:8": "Since you don\u0027t have access to iron at the current harvest level, you\u0027ll have to make a §3Clay Bucket§0 in order to move lava around.\n\nHowever, we do have the feeling these buckets are not as durable as their iron counterparts..."
         }
       },
       "tasks:9": {
@@ -1461,7 +1461,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Smeltery",
-          "desc:8": "In order to progress to the next harvest level, you will need to make a §3smeltery§0. Making the §4Tinkers\u0027 Complement§0 early game smeltery will also complete this quest.\n\nThe required items listed to complete this quest matches everything you need to construct the smallest possible working smeltery, with Casting Table and Faucet.\n\n§2Tip:§0 While you don't have access to proper materials for making casts at this time, you can create temporary casts from §7Liquid Clay§0."
+          "desc:8": "In order to progress to the next harvest level, you will need to make a §3smeltery§0. Making the §9Tinkers\u0027 Complement§0 early game smeltery will also complete this quest.\n\nThe required items listed to complete this quest matches everything you need to construct the smallest possible working smeltery, with §3Casting Table§0 and §3Faucet§0.\n\n§2Tip:§0 While you don't have access to proper materials for making casts at this time, you can create temporary casts from §3Liquid Clay§0."
         }
       },
       "tasks:9": {
@@ -2922,7 +2922,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "Welcome",
-          "desc:8": "Welcome to Enigmatica 2: Expert! This modpack has been designed to challenge the player through various means; the most notable change being difficult custom recipes for most items. In this modpack, automation is key. We therefore advise you to automate crafting as much as possible, as early as possible. Things are going to get complicated.\n\nThis Quest Book will guide you through the pack and will be a great reference point if you don't know what to do next.\n\nTo get started, check the checkbox on the right to get your starterkit.\n\nWe suggest you make a Backpack out of the Tanned Leather \u0026 Wooden Frame.\n\nGood luck!"
+          "desc:8": "Welcome to Enigmatica 2: Expert!\n\nThis modpack has been designed to challenge the player through various means; the most notable change being difficult custom recipes for most items. In this modpack, automation is key. We therefore advise you to automate crafting as much as possible, as early as possible. Things are going to get complicated.\n\nThis §3Quest Book§0 will guide you through the pack and will be a great reference point if you don't know what to do next.\n\nTo get started, check the checkbox on the right to get your starterkit.\n\nWe suggest you make a Backpack out of the §3Tanned Leather§0 \u0026 §3Wooden Frame§0.\n\nGood luck!"
         }
       },
       "tasks:9": {
@@ -3699,7 +3699,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 0",
-          "desc:8": "With just two a durability of 1, vanilla Pickaxes are not very effective. Your first effective Pickaxe should therefore be a §4Tinkers\u0027 Construct§0 Pickaxe.\n\nYou can make it in the Part Builder, using Flint, Paper, Cactus, Wood or Stone.\n\nThis pack contains custom made harvest levels for all ores. This quest chain will show you the materials needed to reach your next harvest level."
+          "desc:8": "With just two a durability of 1, vanilla Pickaxes are not very effective. Your first effective Pickaxe should therefore be a §9Tinkers\u0027 Construct§0 Pickaxe.\n\nYou can make it in the §3Part Builder§0, using §3Flint§0, §3Paper§0, §3Cactus§0, §3Wood§0 or §3Stone§0.\n\nThis pack contains custom made harvest levels for all ores. This quest chain will show you the materials needed to reach your next harvest level."
         }
       },
       "tasks:9": {
@@ -3870,7 +3870,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 2",
-          "desc:8": "Since §3Certus Quartz§0 is a crystallized material that cannot be molten down into a liquid form, we need to work it inside a Part Builder to make tool parts out of it.\n\n§2Tip:§3 Gold Ore§0 also has this harvest level. This allows us to create reusable golden casts for our smeltery from now on!"
+          "desc:8": "Since §3Certus Quartz§0 is a crystallized material that cannot be molten down into a liquid form, we need to work it inside a §3Part Builder§0 to make tool parts out of it.\n\n§2Tip:§3 Gold Ore§0 also has this harvest level. This allows us to create reusable golden casts for our smeltery from now on!"
         }
       },
       "tasks:9": {
@@ -3965,7 +3965,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 3",
-          "desc:8": "Iron Ore generates on most Y-levels."
+          "desc:8": "§3Iron Ore§0 generates on most Y-levels."
         }
       },
       "tasks:9": {
@@ -4037,7 +4037,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Did you know we have veinminer?",
-          "desc:8": "You may have discovered that planks are a little harder to come by than usual. To make up for it, you can harvest multiple logs with§3§9 OreExcavation§0§r.\n\nYou can do this by holding down the \u0027grave\u0027 key (default). This works for all blocks of a certain type as long as they are connected.\n\nThe §4appropriate tool§0 is meant to be required to use §9OreExcavation§0, but due to a bug, it currently isn\u0027t."
+          "desc:8": "You may have discovered that planks are a little harder to come by than usual. To make up for it, you can harvest multiple logs with §9OreExcavation§0.\n\nYou can do this by holding down the \u0027grave\u0027 key (default). This works for all blocks of a certain type as long as they are connected.\n\nThe §4appropriate tool§0 is meant to be required to use §9OreExcavation§0, but due to a bug, it currently isn\u0027t."
         }
       },
       "tasks:9": {
@@ -4106,7 +4106,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 4",
-          "desc:8": "Lead Ore is generated between Y-levels 10 and 45.\n\nBoth Lead and Silver share this harvest level. Therefore, finding Silver will also complete this quest."
+          "desc:8": "§3Lead Ore§0 is generated between Y-levels 10 and 45.\n\nBoth lead and silver share this harvest level. Therefore, finding §3Silver Ore§0 will also complete this quest."
         }
       },
       "tasks:9": {
@@ -4204,7 +4204,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 5",
-          "desc:8": "Osmium Ore generates between Y-levels 20 and 40.\n\nObtaining a Pigiron Pickaxe Head will also complete this quest."
+          "desc:8": "§3Osmium Ore§0 generates between Y-levels 20 and 40.\n\nObtaining a §3Pigiron Pickaxe Head§0 will also complete this quest."
         }
       },
       "tasks:9": {
@@ -4314,7 +4314,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 6",
-          "desc:8": "Obsidian occurs naturally where pools of Lava and flowing Water meet. This typically happens deep underground."
+          "desc:8": "§3Obsidian§0 occurs naturally where pools of lava and flowing water meet. This typically happens deep underground."
         }
       },
       "tasks:9": {
@@ -4398,7 +4398,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 7",
-          "desc:8": "Cobalt Ore and Ardite Ore share this harvest level. Both are rare ores that can be found in the Nether. Obtaining either of them will complete this quest."
+          "desc:8": "§3Cobalt Ore§0 and §3Ardite Ore§0 share this harvest level. Both are rare ores that can be found in the Nether. Obtaining either of them will complete this quest."
         }
       },
       "tasks:9": {
@@ -4589,7 +4589,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 9",
-          "desc:8": "Osgloglas is an alloy made from the 3 main §4Mekanism§0 metals."
+          "desc:8": "§3Osgloglas§0 is an alloy made from the 3 main §9Mekanism§0 metals."
         }
       },
       "tasks:9": {
@@ -4661,7 +4661,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 10",
-          "desc:8": "Enderium is an alloy made from Lead, Platinum and Ender Pearls."
+          "desc:8": "§3Enderium§0 is an alloy made from §3Lead§0, §3Platinum§0 and §3Ender Pearls§0."
         }
       },
       "tasks:9": {
@@ -4739,7 +4739,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 11",
-          "desc:8": "Terrasteel is a strong alloy, made from Mana Pearls, Mana Diamonds and Manasteel."
+          "desc:8": "§3Terrasteel§0 is a strong alloy, made from §3Mana Pearls§0, §3Mana Diamonds§0 and §3Manasteel§0."
         }
       },
       "tasks:9": {
@@ -4814,7 +4814,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 12",
-          "desc:8": "Supremium is the strongest metal Mystical Agriculture has to offer."
+          "desc:8": "§3Supremium§0 is the strongest metal §9Mystical Agriculture§0 has to offer."
         }
       },
       "tasks:9": {
@@ -4889,7 +4889,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 13",
-          "desc:8": "Awakened Sharpening Kits are made from Awakened Cores.\n\nThis seems to be another material that will not let itself be molten down in order to work it into tool parts. Best try the Part builder again."
+          "desc:8": "§3Awakened Sharpening Kits§0 are made from §3Awakened Cores§0.\n\nThis seems to be another material that will not let itself be molten down in order to work it into tool parts. Best try the §3Part Builder§0 again."
         }
       },
       "tasks:9": {
@@ -4967,7 +4967,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 14",
-          "desc:8": "Chaotic Sharpening Kits are made from Chaotic Cores.\n\n\nCongratulations, you\u0027ve reached the maximum harvest level!"
+          "desc:8": "§3Chaotic Sharpening Kits§0 are made from §3Chaotic Cores§0.\n\nCongratulations, you\u0027ve reached the maximum harvest level!"
         }
       },
       "tasks:9": {
@@ -5050,7 +5050,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Scanning",
-          "desc:8": "There\u0027s a slight chance per chunk, that a large ore vein generates. There are 6 different kinds of such superveins, which can be found at varying Y-levels.\n\n§4Nuclearcraft§0 ores only spawn in superveins.\n\nThe pack has a few different items that can help you find ores - the Scanner being one of them.\n\n§2Tip:§0 ores are not the only thing the Scanner can find! Search in JEI for \u0027@Scannable\u0027 to find out more potential useful functionality."
+          "desc:8": "There\u0027s a slight chance per chunk, that a large ore vein generates. There are 6 different kinds of such superveins, which can be found at varying Y-levels.\n\n§9Nuclearcraft§0 ores only spawn in superveins.\n\nThe pack has a few different items that can help you find ores - the Scanner being one of them.\n\n§2Tip:§0 ores are not the only thing the Scanner can find! Search in JEI for \u0027@Scannable\u0027 to find out more potential useful functionality."
         }
       },
       "tasks:9": {
@@ -51443,7 +51443,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Cooking for Blockheads",
-          "desc:8": "§4Cooking for Blockheads§0 adds a multiblock kitchen that makes the crafting of food a lot easier.\n\nIf you put food ingredients in the Fridge and/or Kitchen Counters, the Cooking Table will give you an overview of all food items that you\u0027ll be able to craft with them.\n\n§2Tip:§0 you can place crafting tools in Tool Racks and the Oven to use them in recipes.\n\n§4Important:§0 all blocks in the multiblock kitchen must be adjacent to at least one other kitchen block for them to be connected."
+          "desc:8": "§9Cooking for Blockheads§0 adds a multiblock kitchen that makes the crafting of food a lot easier.\n\nIf you put food ingredients in the §3Fridge§0 and/or §3Kitchen Counter§0s, the §3Cooking Table§0 will give you an overview of all food items that you\u0027ll be able to craft with them.\n\n§2Tip:§0 you can place crafting tools in §3Tool Racks§0 and the §3Oven§0 to use them in recipes.\n\n§4Important:§0 all blocks in the multiblock kitchen must be adjacent to at least one other kitchen block for them to be connected."
         }
       },
       "tasks:9": {
@@ -51536,7 +51536,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Cow in a Jar",
-          "desc:8": "The §3Cow in a Jar§0 will continuously produce Milk. It would be a useful addition to your kitchen!\n\nNow the only question is.. how to get that Cow in there..? Maybe check JEI to see how we should manage that.."
+          "desc:8": "The §3Cow in a Jar§0 will continuously produce §3Milk§0. It would be a useful addition to your kitchen!\n\nNow the only question is.. how to get that cow in there..? Maybe check §9JEI§0 to see how we should manage that.."
         }
       },
       "tasks:9": {
