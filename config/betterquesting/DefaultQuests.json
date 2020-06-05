@@ -3870,7 +3870,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Harvest level 2",
-          "desc:8": "Since §3Certus Quartz§0 is a crystallized material that cannot be molten down into a liquid form, we need to work it inside a Part Builder to make tool parts out of it."
+          "desc:8": "Since §3Certus Quartz§0 is a crystallized material that cannot be molten down into a liquid form, we need to work it inside a Part Builder to make tool parts out of it.\n\n§2Tip:§3 Gold Ore§0 also has this harvest level. This allows us to create reusable golden casts for our smeltery from now on!"
         }
       },
       "tasks:9": {
