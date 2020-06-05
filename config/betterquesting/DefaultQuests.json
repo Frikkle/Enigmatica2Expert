@@ -5326,7 +5326,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "IC2",
-          "desc:8": "Welcome to IC2! \n\nThis is a tier 1 Tech mod. It offers a lot, such as ore doubling, power generation, item duplication, tools and armor. You need to craft an Advanced Machine Case in order to progress into Industrial Foregoing.\n\nHint: If you cannot be bothered with making IC2 generators, you can convert RF into EU with Mekanism."
+          "desc:8": "Welcome to §9IC2§0!\n\nThis is a Tier 1 tech mod that offers a lot, such as ore doubling, power generation, item duplication, tools and armor. You need to craft an §3Advanced Machine Case§0 in order to progress into §9Industrial Foregoing§0.\n\n§2Tip:§0 If you cannot be bothered with making §9IC2§0 generators, you can convert RF into EU using §9Mekanism§0."
         }
       },
       "tasks:9": {
@@ -5391,7 +5391,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Generator",
-          "desc:8": "The most basic generator. It produces EU out of burnables such as coal and wood."
+          "desc:8": "This is the most basic of generators §9IC2§0 has to offer.\n\nIt produces EU out of burnables such as §3Coal§0 and §3Wood§0. This gives us the means to start powering machines!\n\nAdditionally, we can also use it as a basis to create more advanced generators which generate power through other means than simply burning fossil fuels."
         }
       },
       "tasks:9": {
@@ -5459,7 +5459,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Macerator",
-          "desc:8": "The Macerator can grind up various things, and double ores."
+          "desc:8": "The §3Macerator§0 can be used to grind up various materials. And more importantly, it can double ores!"
         }
       },
       "tasks:9": {
@@ -5529,7 +5529,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "Advanced Machine Casing",
-          "desc:8": "This is a crafting ingredient needed to craft higher tier Industrialcraft machines, aswell as being the main ingredient in the§4 Industrial Foregoing§0 Machine Case."
+          "desc:8": "This is a crafting ingredient needed to craft higher tier §9IC2§0 machines. Additionally, this is the main ingredient in the §9Industrial Foregoing§0 §3Machine Case§0."
         }
       },
       "tasks:9": {
@@ -5597,7 +5597,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Replicator",
-          "desc:8": "Supplied with EU and UU Matter, this machine replicates items. Set the desired item with a Pattern Storage, or a Crystal Pattern."
+          "desc:8": "When supplied with EU and §3UU-Matter§0, this machine can replicate items.\n\nSet the desired item by loading it from an adjacent §3Pattern Storage§0, or from a §3Crystal Pattern§0."
         }
       },
       "tasks:9": {
@@ -5665,7 +5665,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Blast Furnace",
-          "desc:8": "The Blast Furnace, when supplied with heat and compressed air, turns Iron into Steel.\n\nTo supply it with compressed air, you\u0027ll need to craft atleast one Universal Fluid Cell. \n\nUniversal Fluid Cells are crafted with 4 Tin Casings around a Glass Pane in a + shape. The Cells are hidden in JEI, as they take up a lot of pages, and fluid containers in JEI tend to cause some lag.\n\nYou fill the Cell with Compressed Air by putting it in a Compressor."
+          "desc:8": "The §3Blast Furnace§0 turns §3Iron§0 into §3Steel§0 when supplied with heat and compressed air.\n\nTo supply it with compressed air, you\u0027ll need to craft atleast one §3Universal Fluid Cell§0. \n\n§6Note:§0 Universal Fluid Cells are crafted with 4 §3Tin Casings§0 around 1 §3Glass Pane§0 in a \"plus\" shape. The cells are hidden in §9JEI§0 as they take up a lot of pages, and fluid containers in §9JEI§0 tend to cause some lag.\n\nYou fill the cell with §3Compressed Air§0 by putting it in a §3Compressor§0."
         }
       },
       "tasks:9": {
@@ -5746,7 +5746,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "BatBox \u0026 Tin Cables",
-          "desc:8": "The lowest possible voltage. All machines can run on this without exploding."
+          "desc:8": "The §3BatBox§0 can be used to store and export power with the lowest possible voltage: 32EU/t. All §9IC2§0 machines can run on this without exploding.\n\n\"without exploding\"? o.O\n\nIf the \"exploding\" part is new to you, we suggest that you read or watch up on how the power system of §9IC2§0 works.\n\nIn short there are two rules:\n 1. Overload a cable and it fizzles to a crisp.\n 2. Overload a machine and it explodes."
         }
       },
       "tasks:9": {
@@ -6069,7 +6069,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "EV",
-          "desc:8": "Glass Fibre Cable can transfer Extreme Voltage, EV, which is 8096EU/t. It also has the lowest loss of energy per block."
+          "desc:8": "§3Glass Fibre Cable§0 can transfer Extreme Voltage (EV) which is 8096EU/t. In addition, it also has the lowest energy loss per block of all the §9IC2§0 cables."
         }
       },
       "tasks:9": {
@@ -6209,7 +6209,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Compressor",
-          "desc:8": "The Compressor lets you craft various compressed items, most notably Dense plates."
+          "desc:8": "The §3Compressor§0 lets you craft various compressed items, most notably §3Dense plates§0 which are used as crafting components for several other mods."
         }
       },
       "tasks:9": {
@@ -6277,7 +6277,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Electric Furnace",
-          "desc:8": "The Electric Furnace is faster than a vanilla furnace, and runs on EU."
+          "desc:8": "The §3Electric Furnace§0 is a faster, EU-powered alternative to the vanilla §3Furnace§0."
         }
       },
       "tasks:9": {
@@ -6345,7 +6345,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Metal Former",
-          "desc:8": "The Metal former can turn various metals into the cable and plate counterparts."
+          "desc:8": "The §3Metal Former§0 can roll, hammer or cut various metals into their cable or plate counterparts."
         }
       },
       "tasks:9": {
@@ -6413,7 +6413,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Geothermal Generator",
-          "desc:8": "This generator produces EU from lava."
+          "desc:8": "This generator can produce EU from lava."
         }
       },
       "tasks:9": {
@@ -6481,7 +6481,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Solar Panel",
-          "desc:8": "Produces 1EU/t while exposed to the sun. Can be upgraded."
+          "desc:8": "This §3Solar Panel§0 produces 1EU/t while exposed to the sun. It can be upgraded."
         }
       },
       "tasks:9": {
@@ -6549,7 +6549,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Semifluid Generator",
-          "desc:8": "Produces EU from fluids such as IC2 Biogas, Forestry Biomass, Oil, Forestry Ethanol and Fuel."
+          "desc:8": "An upgraded form of the §3Geothermal Generator§0; this produces EU from fluids such as §9IC2§0 §3Biogas§0, §9Forestry§0 §3Biomass§0, §3Oil§0, §9Forestry§0 §3Ethanol§0 and §3Fuel§0."
         }
       },
       "tasks:9": {
@@ -6617,7 +6617,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Kinetic Generator",
-          "desc:8": "Produces EU from kinetic energy - You need to pair it with a Steam Turbine, for example."
+          "desc:8": "The §3Kinetic Generator§0 produces EU from kinetic energy - You need to pair it with a §3Steam Turbine§0, for example."
         }
       },
       "tasks:9": {
@@ -6685,7 +6685,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Nuclear Reactor",
-          "desc:8": "The Nuclear Reactor is capable of producing huge amounts of EU.\nSee https://wiki.industrial-craft.net/index.php/Nuclear_Reactor for additional details.\n\nIf you\u0027ve never used the Nuclear Reactor, I highly suggest that you find a guide or tutorial.\n\nThe amount of EU it produces has been increased."
+          "desc:8": "The §3Nuclear Reactor§0 is capable of producing huge amounts of EU. See [§9https://wiki.industrial-craft.net/index.php/Nuclear_Reactor§0] for additional details.\n\n§2Tip:§0 If you have never used the §3Nuclear Reactor§0, we highly suggest that you find a guide or tutorial because messing with nuclear energy can be dangerous.\n\n§2Tip:§0 Make sure you wear proper protection when dealing with §9IC2§0 nuclear materials.\n\n§2Note:§0 The amount of EU produced by the §3Nuclear Reactor§0 has been increased."
         }
       },
       "tasks:9": {
@@ -6759,7 +6759,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Fluid/Solid Canning Machine",
-          "desc:8": "The Fluid/Solid Canning Machine is mainly used to make Nuclear Fuel Rods and Speed Upgrades."
+          "desc:8": "The §3Fluid/Solid Canning Machine§0 is mainly used to in the process of making nuclear §3Fuel Rods§0 and §3Overclocker Upgrades§0."
         }
       },
       "tasks:9": {
@@ -6827,7 +6827,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Block Cutting Machine",
-          "desc:8": "The Block Cutting Machine can cut entire blocks into plates, and increase the Plank yield from Logs."
+          "desc:8": "The §3Block Cutting Machine§0 can cut entire metal blocks into plates. It also increase the plank yield from logs."
         }
       },
       "tasks:9": {
@@ -6895,7 +6895,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Ore Washing Plant",
-          "desc:8": "The Ore Washing Plant lets you get even more than double out of your ores."
+          "desc:8": "The §3Ore Washing Plant§0 lets you get even more than double out of your ores by washing crushed ores into their purified counterparts."
         }
       },
       "tasks:9": {
@@ -6963,7 +6963,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Induction Furnace",
-          "desc:8": "This is an upgraded Electric Furnace. If you want it to operate it max speed, you will need to supply it with 1EU/t, and a redstone signal."
+          "desc:8": "This is an upgraded version of the §9IC2§0 §3Electric Furnace§0. If you want it to operate it at max speed, you will need to supply it with 1EU/t and a redstone signal."
         }
       },
       "tasks:9": {
@@ -7032,7 +7032,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Thermal Centrifuge",
-          "desc:8": "This machine is used to process Depleted Fuel Rods among other things."
+          "desc:8": "This machine is used to process §3Depleted Fuel Rods§0 amongst other things."
         }
       },
       "tasks:9": {
@@ -7165,7 +7165,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Recycler",
-          "desc:8": "The Recycler produces scrap if you feed it with items and power. Scrap can be used to drastically reduce the amount of power needed to produce UU Matter."
+          "desc:8": "The §3Recycler§0 produces §3Scrap§0 given that you feed it with items of some sort and power. §3Scrap§0 can be used to drastically reduce the amount of power needed to produce §3UU-Matter§0."
         }
       },
       "tasks:9": {
@@ -7239,7 +7239,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Matter Fabricator",
-          "desc:8": "The Matter Fabricator produces UU Matter at the cost of tons of EU, and optionally scrab."
+          "desc:8": "The §3Matter Fabricator§0 produces §3UU-Matter§0 at the cost of tons of EU. Optionally the machine can be fed §3Scrap§0 to lower the production power cost."
         }
       },
       "tasks:9": {
@@ -7308,7 +7308,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Pattern Storage",
-          "desc:8": "You can store your UU Matter Patterns in the Pattern Storage. It\u0027s a good idea to place it next to the Scanner, for easy transfer."
+          "desc:8": "You can store your §3UU-Matter§0 patterns in the §3Pattern Storage§0.\n\n§2Tip:§0 It might be a good idea to place it next to the §3Scanner§0 for easy pattern transfer."
         }
       },
       "tasks:9": {
@@ -7376,7 +7376,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Scanner",
-          "desc:8": "Place items in the Scanner to see how much UU Matter it costs to replicate them. \n\n§4§lThis will destroy the item. §0\n\nThere are quite a few additional items that can be replicated, in addition to the normal ones."
+          "desc:8": "Place items in the §3Scanner§0 to see how much §3UU-Matter§0 it costs to replicate them.\n\n§4Scanning an item this way will destroy the item!§0\n\n§2Hint:§0 In this pack there are quite a few additional items that can be replicated, in addition to the normal ones. Some item tooltips list their replication cost."
         }
       },
       "tasks:9": {
@@ -30635,7 +30635,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Electric Jetpack",
-          "desc:8": "A simple, cheap jetpack. Charge it with EU."
+          "desc:8": "A simple and relatively cheap jetpack that needs to be charged with EU."
         }
       },
       "tasks:9": {
@@ -30710,7 +30710,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Advanced Alloy",
-          "desc:8": "A crafting component."
+          "desc:8": "A crafting component used for creating, amongst other things, more complex machines and casings."
         }
       },
       "tasks:9": {
@@ -30778,7 +30778,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "RTG Fuel",
-          "desc:8": "RTG Fuel can be used to produce EU passively in a Radioisotope Thermoelectric Generator. \n\nIt\u0027s also a crafting ingredient for some endgame items."
+          "desc:8": "§3Pellets of RTG Fuel§0 can be used to produce EU passively when placed inside of a §3Radioisotope Thermoelectric Generator§0 (RTG).\n\nIt is also used as a crafting ingredient for some endgame items."
         }
       },
       "tasks:9": {
@@ -31039,7 +31039,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Rubber",
-          "desc:8": "Sticky Resin is extracted from Rubber Trees, with a Treetap. Sticky Resin can be smelted to make rubber, but it\u0027s far more efficient to process it in an Extractor."
+          "desc:8": "§3Sticky Resin§0 can extracted from §3Rubber Trees§0 using a §3Treetap§0.\n\nThe §3Sticky Resin§0 can be smelted into §3Rubber§0, but it\u0027s far more efficient to process it in an §3Extractor§0."
         }
       },
       "tasks:9": {
@@ -31126,7 +31126,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Mining Laser",
-          "desc:8": "The Mining Laser is a mining tool. It has several different modes you can choose from."
+          "desc:8": "The §3Mining Laser§0 is a mining tool as the name would make us suspect. It has several different modes you can choose from."
         }
       },
       "tasks:9": {
@@ -31285,7 +31285,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "Plutonium",
-          "desc:8": "Tiny Piles of Plutonium come from processing depleted MOX or Uranium Fuel Rods in a Thermal Centrifuge."
+          "desc:8": "§3Tiny Piles of Plutonium§0 can get retrieved from processing depleted §3MOX§0 or §3Uranium Fuel Rods§0 in a §3Thermal Centrifuge§0."
         }
       },
       "tasks:9": {
@@ -31356,7 +31356,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "CF Sprayer",
-          "desc:8": "The CF Sprayer can be used to spray Construction Foam. Construction Foam can encase IC2 cables to form facades."
+          "desc:8": "The §3CF Sprayer§0 can be used to spray §3Construction Foam§0. §3Construction Foam§0 can be used to encase §9IC2§0 cables to form facades."
         }
       },
       "tasks:9": {
@@ -31579,7 +31579,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Iridium",
-          "desc:8": "Iridium is an extremely rare material, used for Tools and crafting. It\u0027s a great idea to automate the replication of this.\n\nYou can find Iridium Shards in dungeon loot, and the Shards can be compressed into Iridium Ore."
+          "desc:8": "§3Iridium§0 is an extremely rare material used for tools and crafting. It\u0027s a great idea to automate the replication of this material.\n\nYou can find §3Iridium Shards§0 in dungeon loot. These shards in turn, can be compressed into §3Iridium Ore§0."
         }
       },
       "tasks:9": {
