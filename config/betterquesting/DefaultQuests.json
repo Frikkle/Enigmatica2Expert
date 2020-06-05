@@ -314,8 +314,8 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "repeat_relative:1": 1,
-          "name:8": "Gate: IndustrialCraft",
-          "desc:8": "Completing this quest opens the IndustrialCraft chapter."
+          "name:8": "Gate: IC2",
+          "desc:8": "Completing this quest opens the §9IC2§0 chapter.\n\n§9IC2§0, also known as §9IndustrialCraft§0 is a Tier 1 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -393,7 +393,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Forestry",
-          "desc:8": "Completing this quest opens the Forestry chapter."
+          "desc:8": "Completing this quest opens the §9Forestry§0 chapter.\n\n§9Forestry§0 is a Tier 1 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -482,7 +482,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Immersive Engineering",
-          "desc:8": "Completing this quest opens the Immersive Engineering chapter."
+          "desc:8": "Completing this quest opens the §9Immersive Engineering§0 chapter.\n\n§9Immersive Engineering§0 is a Tier 1 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -571,8 +571,8 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "repeat_relative:1": 1,
-          "name:8": "Gate: Pipes",
-          "desc:8": "There is no Pipe chapter, but completing this quest grants access to §3XNet§0, which in turn grants access to §4§6§8§9§a§b§e§d§f§d§a§9§8§9Thermal Dynamics."
+          "name:8": "Gate: Transfer",
+          "desc:8": "There is no dedicated chapter about transferring stuff using pipes and cables. Completing this quest however, will grant you access to §9XNet§0, which in turn grants access to §9Thermal Dynamics.\n\n§2Tip:§0 Using §9XNet§0 you can do some pretty fancy early game automation."
         }
       },
       "tasks:9": {
@@ -660,7 +660,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Astral Sorcery",
-          "desc:8": "Completing this quest opens the Astral Sorcery chapter.\n\nAquamarine needs clear view of the sky to generate, and can be found near sand."
+          "desc:8": "Completing this quest opens the §9Astral Sorcery§0 chapter.\n\n§9Astral Sorcery§0 is a Tier 2 magic mod. More information can be found in the chapter's introductory quest.\n\n§2Tip:§0 §3Aquamarine Shale§0 needs clear view of the sky to generate, and can usually be found in sandy river beddings or along the shoreline."
         }
       },
       "tasks:9": {
@@ -732,7 +732,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Actually Additions",
-          "desc:8": "Completing this quest opens the Actually Additions chapter."
+          "desc:8": "Completing this quest opens the §9Actually Additions§0 chapter.\n\n§9Actually Additions§0 is a Tier 2 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -811,7 +811,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Ex Nihilo",
-          "desc:8": "There is no Ex Nihilo chapter, but completing this quest grants access to the mod.\n\n§4Mana Infused Ingots§0 are craftable."
+          "desc:8": "§9Ex Nihilo: Creatio§0 is a mod that allows us to create stuff just like its name suggests: out of nothing!\n\nThere is no quest chapter for this mod, but completing this quest grants you access to its items. It might be a good idea to investigate what we can do with this §3Sieve§0...\n\n§2Tip:§0 There is a rumor that §3Mana Infused Ingots§0 are craftable."
         }
       },
       "tasks:9": {
@@ -889,7 +889,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Mekanism",
-          "desc:8": "Completing this quest opens the Mekanism chapter."
+          "desc:8": "Completing this quest opens the §9Mekanism§0 chapter.\n\n§9Mekanism§0 is a Tier 2 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -994,7 +994,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Mystical Agriculture",
-          "desc:8": "There is no chapter for Mystical Agriculture.\n\nYou only have to make one of the Crystals to complete the quest, you choose which.\n\nThe Master Infusion Crystal requires items from Astral Sorcery and Botania, and has unlimited uses.\n\nThe normal Infusion Crystal requires items from The End or Botania, aswell as Thermal Expansion. It only has 25 uses."
+          "desc:8": "There is no chapter for §9Mystical Agriculture§0.\n\nThe normal §3Infusion Crystal§0 requires items from the End or §9Botania§0, as well as §9Thermal Expansion§0 and it only has only 25 uses.\n\nThe §3Master Infusion Crystal§0 requires items from §9Astral Sorcery§0 and §9Botania§0 and it has unlimited uses.\n\n§2Tip:§0 to complete this quest, you only have to make one of the infusion crystals; the choice is yours."
         }
       },
       "tasks:9": {
@@ -1098,7 +1098,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Botania",
-          "desc:8": "Completing this quest opens the Botania chapter."
+          "desc:8": "Completing this quest opens the §9Botania§0 chapter.\n\n§9Botania§0 is a Tier 3 magic mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -1230,7 +1230,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Industrial Foregoing",
-          "desc:8": "Completing this quest opens the Industrial Foregoing chapter."
+          "desc:8": "Completing this quest opens the §9Industrial Foregoing§0 chapter.\n\n§9Industrial Foregoing§0 is a Tier 2 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -1308,7 +1308,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Extreme Reactors",
-          "desc:8": "There is no Extreme Reactors chapter, but NuclearCraft and IndustrialCraft grant access to the mod.\n\nCyanite, Blutonium, Ludicrite, Anglesite and Beniotite will all be needed for the endgame."
+          "desc:8": "There is no §9Extreme Reactors§0 chapter, but §9NuclearCraft§0 and §9IndustrialCraft§0 grant access to this Tier 3 tech mod which focusses on power generation.\n\n§3Cyanite§0, §3Blutonium§0, §3Ludicrite§0, §3Anglesite§0 and §3Benitoite§0 will all be needed for the endgame."
         }
       },
       "tasks:9": {
@@ -2752,7 +2752,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Thermal Expansion",
-          "desc:8": "Completing this quest opens the Thermal Expansion chapter."
+          "desc:8": "Completing this quest opens the §9Thermal Expansion§0 chapter.\n\n§9Thermal Expansion§0 is a Tier 3 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -2836,7 +2836,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Extra Utilities",
-          "desc:8": "Completing this quest opens the Extra Utilities chapter."
+          "desc:8": "Completing this quest opens the §9Extra Utilities§0 chapter.\n\n§9Extra Utilities§0 is a Tier 1.5 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -3020,7 +3020,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Applied Energistics",
-          "desc:8": "There is no Applied Energistics chapter, but Immersive Engineering, IndustrialCraft, Forestry, Actually Additions and Industrial Foregoing open up for the mod."
+          "desc:8": "§9Applied Energistics§0 is our gateway to large-scale storage and automation.\n\nThere is no quest chapter for this Tier 3 tech mod, but §9Immersive Engineering§0, §9IndustrialCraft§0, §9Forestry§0, §9Actually Additions§0 and §9Industrial Foregoing§0 are required to get into this mod properly.\n\nIn order to get going with this mod, check §9JEI§0, the mod creator's wiki [§9https://ae-mod.info/§0] and YouTube are your friend."
         }
       },
       "tasks:9": {
@@ -3110,7 +3110,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: RFTools",
-          "desc:8": "Completing this quest opens the RFTools chapter."
+          "desc:8": "Completing this quest opens the §9RFTools§0 chapter.\n\n§9RFTools§0 is a Tier 2.5 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -3214,7 +3214,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Environmental Tech",
-          "desc:8": "Completing this quest opens the Environmental Tech chapter."
+          "desc:8": "Completing this quest opens the §9Environmental Tech§0 chapter.\n\n§9Environmental Tech§0 is a Tier 4 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -3309,7 +3309,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Draconic Evolution",
-          "desc:8": "Completing this quest opens the Draconic Evolution chapter."
+          "desc:8": "Completing this quest opens the §9Draconic Evolution§0 chapter.\n\n§9Draconic Evolution§0 is a Tier 4 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -3408,7 +3408,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: NuclearCraft",
-          "desc:8": "Completing this quest opens the NuclearCraft chapter."
+          "desc:8": "Completing this quest opens the §9NuclearCraft§0 chapter.\n\n§9NuclearCraft§0 is a Tier 2 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -5050,7 +5050,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Scanning",
-          "desc:8": "There\u0027s a slight chance per chunk, that a large ore vein generates. There are 6 different kinds of such superveins, which can be found at varying Y-levels.\n\n§9Nuclearcraft§0 ores only spawn in superveins.\n\nThe pack has a few different items that can help you find ores - the Scanner being one of them.\n\n§2Tip:§0 ores are not the only thing the Scanner can find! Search in JEI for \u0027@Scannable\u0027 to find out more potential useful functionality."
+          "desc:8": "There\u0027s a slight chance per chunk, that a large ore vein generates. There are 6 different kinds of such superveins, which can be found at varying Y-levels.\n\n§9Nuclearcraft§0 ores only spawn in superveins.\n\nThe pack has a few different items that can help you find ores - the Scanner being one of them.\n\n§2Tip:§0 Ores are not the only thing the Scanner can find! Search in JEI for \u0027@Scannable\u0027 to find out more potential useful functionality."
         }
       },
       "tasks:9": {
@@ -5173,7 +5173,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Bragging Rights",
-          "desc:8": "Completing this quest opens the Bragging Rights chapter."
+          "desc:8": "Completing this quest opens the §9Bragging Rights§0 chapter.\n\nThis chapter guides you in the creation of the most poweful and expensive items this pack has to offer. You're nearing the end of the pack and are almost ready to brag to your friends about your journey through this pack!"
         }
       },
       "tasks:9": {
@@ -5258,7 +5258,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Psi",
-          "desc:8": "There is no Psi chapter, but Botania and Thermal Expansion give access to the mod."
+          "desc:8": "There is no §9Psi§0 chapter, but §9Botania§0 and §9Thermal Expansion§0 give access to this mod.\n\n§3Psimetal§0 will be needed for the endgame."
         }
       },
       "tasks:9": {
@@ -19113,7 +19113,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Advanced Rocketry",
-          "desc:8": "Completing this quest opens the Advanced Rocketry chapter.\n\nYou will need materials from other planets to make some of the creative items."
+          "desc:8": "Completing this quest opens the §9Advanced Rocketry§0 chapter.\n\n§9Advanced Rocketry§0 is a Tier 4 tech mod. More information can be found in the chapter's introductory quest.\n\nYou will need to venture into outer space to find materials on other planets in order to make some of the endgame items."
         }
       },
       "tasks:9": {
@@ -41608,7 +41608,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Ender IO",
-          "desc:8": "Completing this quest open the Ender IO chapter."
+          "desc:8": "Completing this quest open the §9Ender IO§0 chapter.\n\n§9Ender IO§0 is a Tier 4 tech mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -43722,7 +43722,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Thaumcraft",
-          "desc:8": "Completing this quest opens the Thaumcraft chapter.\n\nSome types of Vis Crystal can be found under ground."
+          "desc:8": "Completing this quest opens the §9Thaumcraft§0 chapter.\n\n§9Thaumcraft§0 is a Tier 1 magic mod. More information can be found in the chapter's introductory quest.\n\n§2Tip:§0 Some types of §3Vis Crystal§0 can be found underground."
         }
       },
       "tasks:9": {
@@ -43802,7 +43802,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Gate: Blood Magic",
-          "desc:8": "Completing this quest opens the Blood Magic chapter."
+          "desc:8": "Completing this quest opens the §9Blood Magic§0 chapter.\n\n§9Blood Magic§0 is a Tier 4 magic mod. More information can be found in the chapter's introductory quest."
         }
       },
       "tasks:9": {
@@ -51443,7 +51443,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Cooking for Blockheads",
-          "desc:8": "§9Cooking for Blockheads§0 adds a multiblock kitchen that makes the crafting of food a lot easier.\n\nIf you put food ingredients in the §3Fridge§0 and/or §3Kitchen Counter§0s, the §3Cooking Table§0 will give you an overview of all food items that you\u0027ll be able to craft with them.\n\n§2Tip:§0 you can place crafting tools in §3Tool Racks§0 and the §3Oven§0 to use them in recipes.\n\n§4Important:§0 all blocks in the multiblock kitchen must be adjacent to at least one other kitchen block for them to be connected."
+          "desc:8": "§9Cooking for Blockheads§0 adds a multiblock kitchen that makes the crafting of food a lot easier.\n\nIf you put food ingredients in the §3Fridge§0 and/or §3Kitchen Counter§0s, the §3Cooking Table§0 will give you an overview of all food items that you\u0027ll be able to craft with them.\n\n§2Tip:§0 You can place crafting tools in §3Tool Racks§0 and the §3Oven§0 to use them in recipes.\n\n§4Important:§0 all blocks in the multiblock kitchen must be adjacent to at least one other kitchen block for them to be connected."
         }
       },
       "tasks:9": {
