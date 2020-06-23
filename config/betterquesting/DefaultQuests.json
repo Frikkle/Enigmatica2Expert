@@ -6069,7 +6069,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "EV",
-          "desc:8": "§3Glass Fibre Cable§0 can transfer Extreme Voltage (EV) which is 8096EU/t. In addition, it also has the lowest energy loss per block of all the §9IC2§0 cables."
+          "desc:8": "§3Glass Fibre Cable§0 can transfer Extreme Voltage (EV) which is 8196EU/t. In addition, it also has the lowest energy loss per block of all the §9IC2§0 cables."
         }
       },
       "tasks:9": {
